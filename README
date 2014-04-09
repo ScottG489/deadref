@@ -1,0 +1,7 @@
+A program that shows dead reference links for a given wikipedia page.
+
+Usage:
+deadref.py <page name>
+
+
+Don't provide the entire url, only the name of the page (e.g. 'foobar' would show dead reference links for http://en.wikipedia.org/wiki/Foobar)
